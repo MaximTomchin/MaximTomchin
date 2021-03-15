@@ -13,7 +13,7 @@
 - **Node.js**  
 - **Express.js** 
 - **Адаптивная вёрстка**  
-- -**Git** 
+- **Git** 
 
 <!---
 MaximTomchin/MaximTomchin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
